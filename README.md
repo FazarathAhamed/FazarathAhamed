@@ -25,64 +25,17 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- About Me Section -->
-<section class="py-20 bg-gray-50">
-  <div class="container mx-auto px-6">
-    <div class="flex flex-col-reverse md:flex-row items-center md:justify-between gap-10">
-      
-      <!-- Text Content -->
-      <div class="md:w-2/3">
-        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Hi, I'm Your Name 👋</h2>
-        <p class="text-gray-700 mb-4 text-lg">
-          🎓 IT / Software Engineering Student<br>
-          🔒 Passionate about Cybersecurity, AI, and Robotics<br>
- 
-          🌱 Learning Next.js, Tailwind CSS, React, Node.js
-        </p>
-        <a href="#projects" class="inline-block mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition">
-          View My Projects
-        </a>
-      </div>
+## 🌟 About Me
+<img align="right" width="230" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
 
-      <!-- GIF Image on the right -->
-      <div class="md:w-1/3 flex justify-center">
-        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" 
-             alt="Coding GIF" 
-             class="rounded-xl shadow-2xl border-4 border-blue-200 w-64 md:w-80 animate-bounce">
-      </div>
-      
-    </div>
-  </div>
-</section>
-<!-- About Me Section -->
-<section class="py-20 bg-gray-50">
-  <div class="container mx-auto px-6">
-    <div class="flex flex-col-reverse md:flex-row items-center md:justify-between gap-10">
-      
-      <!-- Text Content -->
-      <div class="md:w-2/3">
-        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Hi, I'm Your Name 👋</h2>
-        <p class="text-gray-700 mb-4 text-lg">
-          🎓 IT / Software Engineering Student<br>
-          🔒 Passionate about Cybersecurity, AI, and Robotics<br>
- 
-          🌱 Learning Next.js, Tailwind CSS, React, Node.js
-        </p>
-        <a href="#projects" class="inline-block mt-4 px-6 py-2 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition">
-          View My Projects
-        </a>
-      </div>
+- 🎓 IT / Software Engineering Student  
+- 🔒 Passionate about **Cybersecurity**, **AI**, **Robotics**  
+- 💻 Building **Iron Man–style AI projects & portfolio**  
+- 🌱 Currently learning **Next.js, Tailwind, React, Node.js**  
+- 💬 Open to **collaboration & mentorship**  
 
-      <!-- GIF Image on the right -->
-      <div class="md:w-1/3 flex justify-center">
-        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" 
-             alt="Coding GIF" 
-             class="rounded-xl shadow-2xl border-4 border-blue-200 w-64 md:w-80 animate-bounce">
-      </div>
-      
-    </div>
-  </div>
-</section>
+---
+
 
 
 ## 🛠 Tech Stack & Tools
