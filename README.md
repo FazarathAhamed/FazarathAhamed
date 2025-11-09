@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 
 
-<!-- About Me Section with GIF on the right -->
 <table>
   <tr>
-    <!-- Text content on the left -->
+    <!-- Text on the left -->
     <td style="vertical-align: top; padding-right: 20px;">
       <h2>🌟 About Me</h2>
       <ul>
@@ -41,15 +40,16 @@ Here are some ideas to get you started:
       </ul>
     </td>
 
-    <!-- GIF image on the right -->
+    <!-- Image on the right -->
     <td style="vertical-align: top;">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQxendsa3lmNjZ5b3o0bDhhbmZsMWw3dmxtbG92ZG1vdmlmaTczaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HO2cuakPoSngvitf0M/giphy.gif" 
            alt="Coding GIF" 
-           width="230" 
+           width="230"
            style="border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
     </td>
   </tr>
 </table>
+
 
 
 ## 🛠 Tech Stack & Tools
