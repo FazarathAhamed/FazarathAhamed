@@ -26,23 +26,7 @@ Here are some ideas to get you started:
 ---
 
 
-<!-- Container must be flex -->
-<div style="display: flex; align-items: center; gap: 20px;">
-
-  <!-- Text content on the left -->
-  <div style="flex: 1;">
-    <h2>🌟 About Me</h2>
-    <ul>
-      <li>🎓 IT / Software Engineering Student</li>
-      <li>🔒 Passionate about <strong>Cybersecurity</strong>, <strong>AI</strong>, <strong>Robotics</strong></li>
-      <li>🌱 Currently learning <strong>Next.js, Tailwind, React, Node.js</strong></li>
-      <li>💬 Open to <strong>collaboration & mentorship</strong></li>
-    </ul>
-  </div>
-
-  <!-- GIF aligned to the right -->
-  <div style="flex: 0 0 230px; margin-left: auto;">
-    <!-- About Me Section with GIF on the right -->
+<!-- About Me Section with GIF on the right -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
 
   <!-- Text content -->
@@ -56,13 +40,12 @@ Here are some ideas to get you started:
     </ul>
   </div>
 
-  <!-- GIF image -->
-  
-   <img align="right" width="230" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
-
-
-</div>  
-
+  <!-- GIF image aligned to the right -->
+  <div style="flex: 0 0 230px; margin-left: auto;">
+    <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQxendsa3lmNjZ5b3o0bDhhbmZsMWw3dmxtbG92ZG1vdmlmaTczaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HO2cuakPoSngvitf0M/giphy.gif)" 
+         alt="Coding GIF" 
+         width="230"
+         style="border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
   </div>
 
 </div>
