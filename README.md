@@ -17,74 +17,90 @@ Here are some ideas to get you started:
 
 
 
+<p align="left">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" height="150" style="border-radius:50%">
+  <span>
+    <h1 align="left">Hi 👋, I'm Your Name</h1>
+    <p>💻 IT / Software Engineering Student | 🔒 Cybersecurity & AI Enthusiast | 🤖 Robotics Hobbyist</p>
+  </span>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&width=600&lines=AI+Developer;Cybersecurity+Student;Full+Stack+Learner;Open+Source+Contributor)](https://git.io/typing-svg)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=green)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00F700&width=600&lines=AI+Developer;Cybersecurity+Student;Full+Stack+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 - 🎓 IT / Software Engineering Student  
 - 🔒 Passionate about **Cybersecurity**, **AI**, and **Robotics**  
-- 💻 Building an **Iron Man–style personal portfolio** with AI features  
-- 🌱 Currently learning **Next.js**, **Tailwind CSS**, **React**, and **Node.js**  
-- 💬 Open to **collaboration and mentorship**
+- 💻 Currently building **Iron Man–style AI portfolio** and web projects  
+- 🌱 Learning **Next.js**, **Tailwind CSS**, **React**, **Node.js**, **Python**  
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+| Languages | Frameworks | Databases | Tools |
+|-----------|------------|----------|-------|
+| ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) | ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) | ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code) |
 
 ---
 
-## 🔭 Projects
-### Featured Projects
-- [Iron Man Portfolio](https://github.com/your-username/ironman-portfolio) — AI-powered personal website with interactive HUD  
-- [Paddy Field AI](https://github.com/your-username/paddy-field-ai) — Detects crop issues from images and gives treatment suggestions  
-- [Bookstore Management](https://github.com/your-username/bookstore-management) — Python + MySQL GUI system  
+## 💻 Projects
 
-### Other Projects
-- [Project A](https://github.com/your-username/project-a) — Short description  
-- [Project B](https://github.com/your-username/project-b) — Short description  
+### Featured
+[![Iron Man Portfolio](https://img.shields.io/badge/Iron%20Man%20Portfolio-React-05122A?style=for-the-badge)](https://github.com/your-username/ironman-portfolio)  
+💡 AI-powered personal website with interactive HUD
+
+[![Paddy Field AI](https://img.shields.io/badge/Paddy%20Field%20AI-Python-05122A?style=for-the-badge)](https://github.com/your-username/paddy-field-ai)  
+💡 Detects crop issues and gives treatment suggestions
+
+[![Bookstore Management](https://img.shields.io/badge/Bookstore%20Management-Python-05122A?style=for-the-badge)](https://github.com/your-username/bookstore-management)  
+💡 Python + MySQL GUI system
 
 ---
 
 ## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="45%">
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+---
+
+## 🏆 Skills & Expertise
+
+**Python**  
+`██████████░░░░░░░░` 70%  
+
+**JavaScript / React**  
+`█████████░░░░░░░░░` 65%  
+
+**Node.js / Next.js**  
+`████████░░░░░░░░░░` 60%  
+
+**Cybersecurity / Ethical Hacking**  
+`██████████░░░░░░░░` 70%  
+
+**AI / Machine Learning**  
+`████████░░░░░░░░░░` 60%  
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourwebsite.vercel.app)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/your-channel)
+<p align="left">
+  <a href="https://linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-username"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourwebsite.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🎯 Skills & Interests
-- AI / Machine Learning / Computer Vision  
-- Cybersecurity & Ethical Hacking  
-- Full Stack Web Development  
-- Python, JS, React, Node.js, SQL  
-- Robotics & IoT Projects  
-
----
-
-## 💡 Fun Facts
-- ⚡ Coffee-fueled coder ☕  
-- 🎮 Love building tech projects inspired by **Iron Man**  
-- 🌎 Open source contributor  
+## ⚡ Fun Facts
+- Coffee-fueled coder ☕  
+- Tech projects inspired by **Iron Man** 🤖  
+- Open source contributor 🌎
 
