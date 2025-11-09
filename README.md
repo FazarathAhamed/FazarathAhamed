@@ -34,6 +34,13 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **Next.js, Tailwind CSS, React, Node.js**  
 - 💬 Open to **collaboration & mentorship**
 
+
+
+
+
+
+- 
+
 ---
 
 
