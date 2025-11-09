@@ -57,9 +57,9 @@ Here are some ideas to get you started:
   </div>
 
   <!-- GIF image -->
-  <div style="flex: 0 0 230px; text-align: center;">
+  
    <img align="right" width="230" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
-  </div>
+
 
 </div>  
 
