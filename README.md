@@ -25,17 +25,30 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌟 About Me
-<img align="right" width="230" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
 
-- 🎓 IT / Software Engineering Student  
-- 🔒 Passionate about **Cybersecurity**, **AI**, **Robotics**  
-- 💻 Building **Iron Man–style AI projects & portfolio**  
-- 🌱 Currently learning **Next.js, Tailwind, React, Node.js**  
-- 💬 Open to **collaboration & mentorship**  
 
----
+<!-- About Me Section with GIF on the right -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
 
+  <!-- Text content -->
+  <div style="flex: 1; min-width: 250px;">
+    <h2>🌟 About Me</h2>
+    <ul>
+      <li>🎓 IT / Software Engineering Student</li>
+      <li>🔒 Passionate about <strong>Cybersecurity</strong>, <strong>AI</strong>, <strong>Robotics</strong></li>
+      <li>🌱 Currently learning <strong>Next.js, Tailwind, React, Node.js</strong></li>
+      <li>💬 Open to <strong>collaboration & mentorship</strong></li>
+    </ul>
+  </div>
+
+  <!-- GIF image -->
+  <div style="flex: 0 0 230px; text-align: center;">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" 
+         alt="Coding GIF" 
+         style="width: 230px; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  </div>
+
+</div>
 
 
 ## 🛠 Tech Stack & Tools
