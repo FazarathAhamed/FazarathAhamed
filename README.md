@@ -36,17 +36,12 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 ## 🔭 Featured Projects
 <p float="left">
