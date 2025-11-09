@@ -31,41 +31,43 @@ Here are some ideas to get you started:
   <div class="md:w-2/3">
     <h2 class="text-3xl font-bold mb-4">About Me</h2>
     <p class="text-gray-700 mb-4">
-      🎓 IT / Software Engineering Student<br>
-      🔒 Passionate about Cybersecurity, AI, Robotics<br>
-      💻 Building an Iron Man–style AI portfolio<br>
-      🌱 Learning Next.js, Tailwind CSS, React, Node.js
-    </p>
-  </div>
-
-  <!-- GIF Image on the right -->
-  <div class="md:w-1/3 flex justify-center mt-6 md:mt-0">
-    <img align="right" width="230" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding GIF" class="rounded shadow-lg">
-  </div>
-</div>
-
+      
+    
+ 
 
 - 🎓 IT / Software Engineering Student  
-- 🔒 Passionate about **Cybersecurity**, **AI**, **Robotics**  
-- 💻 Building **Iron Man–style AI projects & portfolio**  
+- 🔒 Passionate about **Cybersecurity**, **AI**, **Robotics**    
 - 🌱 Currently learning **Next.js, Tailwind, React, Node.js**  
-- 💬 Open to **collaboration & mentorship**  
+- 💬 Open to **collaboration & mentorship**
+  </p>
+  </div> 
+
+  <!-- GIF Image on the right -->
+      <div class="md:w-1/3 flex justify-center">
+        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" 
+             alt="Coding GIF" 
+             class="rounded-xl shadow-2xl border-4 border-blue-200 w-64 md:w-80 animate-bounce">
+      </div>
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
 <p float="left">
-  <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-05122A?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998" height="40" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" />
 </p>
+
 
 
 
