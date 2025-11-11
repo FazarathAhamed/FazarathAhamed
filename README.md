@@ -113,6 +113,6 @@ Here are some ideas to get you started:
 
 
 ## 💡 Fun Facts
-- ⚡ Coffee-fueled coder ☕  
+- ⚡ Coffee-fueled coder ☕ 
 - 🎮 Love building tech projects inspired by **Iron Man**  
 - 🌎 Open source contributor  
