@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Fazarath Ahamed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&width=650&lines=AI+Developer;Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Software+Engineer;Inventor;Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&width=650&lines=AI+Developer;Full+Stack+Developer;Open+Source+Contributor;Software+Engineer;Inventor;Researcher)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
@@ -31,14 +31,16 @@ Here are some ideas to get you started:
 
   <!-- Text content -->
   <div style="flex: 1; min-width: 250px;">
-    <h2>🌟 About Me</h2>
-    <ul>
-      <li>🎓 IT / Software Engineering Student</li>
-      <li>🔒 Passionate about <strong>Cybersecurity</strong>, <strong>AI</strong>, <strong>Robotics</strong></li>
-      <li>🌱 Currently learning <strong>Next.js, Tailwind, React, Node.js</strong></li>
-      <li>💬 Open to <strong>collaboration & mentorship</strong></li>
-    </ul>
-  </div>
+  <h2>🌟 About Me</h2>
+
+  <ul>
+    <li>🎓 IT / Software Engineering Student building real-world systems</li>
+    <li>🧠 Passionate about <strong>Cybersecurity</strong>, <strong>AI</strong> & <strong>Robotics</strong></li>
+    <li>🚀 Currently exploring <strong>Next.js</strong>, <strong>React</strong>, <strong>Node.js</strong> & <strong>Tailwind CSS</strong></li>
+    <li>🤖 Building AI-powered projects (chatbots, automation, smart tools)</li>
+    <li>🌍 Open to <strong>collaboration, internships & mentorship</strong></li>
+  </ul>
+</div>
 
   <!-- GIF image aligned to the right -->
   <div style="flex: 0 0 230px; margin-left: auto;">
