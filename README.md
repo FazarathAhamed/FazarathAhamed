@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Your Name
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&width=650&lines=AI+Developer;Cybersecurity+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&width=650&lines=AI+Developer;Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Software+Engineer;Inventor;Researcher)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
